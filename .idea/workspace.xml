@@ -1,11 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcd50147-7df1-4e4a-9b12-9ec3d28bbed9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/music-react/config/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/config/jest/cssTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/config/jest/fileTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/config/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/config/paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/config/pnpTs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/config/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/config/webpackDevServer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/scripts/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/scripts/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-react/scripts/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react" beforeDir="false" afterPath="$PROJECT_DIR$/music-react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/music-react/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/music-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/music-react/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/music-react/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/music-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/music-react/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/music-react/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/src/pages/demo/Child.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/src/pages/demo/Life.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/src/pages/demo/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music-react/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/music-react/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YLWODL1WpbsmdWJOU7cD7iy7hC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd50147-7df1-4e4a-9b12-9ec3d28bbed9" name="Default Changelist" comment="" />
+      <created>1582722320608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582722320608</updated>
+      <workItem from="1582722321815" duration="397000" />
+      <workItem from="1583041375515" duration="543000" />
+      <workItem from="1584945366748" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

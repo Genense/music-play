@@ -5,5 +5,5 @@
 -api           后端node<p>
 -music-react   前端react网页     <p>
 启动方式<p>
-先进入api  -- yarn start启动node<p>
-在进入music-react  --- yarn start 启动前端 
+先进入cd api  -- yarn start启动node<p>
+再进入cd music-react  --- yarn start 启动前端 
